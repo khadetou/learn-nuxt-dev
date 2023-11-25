@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import "@unocss/reset/tailwind.css"
+import '@unocss/reset/tailwind.css'
 </script>
 
 <template>
