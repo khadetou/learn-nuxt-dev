@@ -21,6 +21,8 @@ function toggleDark() {
         </button>
       </div>
     </div>
-    <div class="p4">Playground</div>
+    <div class="p4">
+      <ThePlayground/>
+    </div>
   </div>
 </template>
