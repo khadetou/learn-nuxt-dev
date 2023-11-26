@@ -13,6 +13,8 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.1.0",
+    "@iconify-json/logos": "^1.1.38",
+    "@iconify/json": "^2.2.146",
     "@nuxt/devtools": "latest",
     "@nuxtjs/color-mode": "latest",
     "@unocss/nuxt": "latest",
